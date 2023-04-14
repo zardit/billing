@@ -16,7 +16,7 @@
 	<name>billing</name>
 	<description>billing</description>
 	<properties>
-		<camel.version>2.23.2</camel.version>
+		<camel.version>3.2.0</camel.version>
 		<activemq.version>5.15.8</activemq.version>
 		<postgresql.version>42.2.5</postgresql.version>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
